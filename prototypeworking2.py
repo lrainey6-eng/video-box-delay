@@ -95,6 +95,5 @@ def run_program():
     print(f"Video saved at {vid_path}")
 
 
-
 if __name__ == '__main__':
     run_program()
